@@ -9,4 +9,4 @@
 
 -  **Android 安装步骤**
 
-    > 点击安装 [看个球](http://kanqiu.me/kanqiu.apk)
+    > 点击安装 [看个球](https://watchaball.oss-cn-beijing.aliyuncs.com/kanqiu.apk)
